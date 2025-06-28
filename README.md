@@ -33,7 +33,7 @@ I'm an undergraduate student in the Ingeniería de Ciencia de Datos e Inteligenc
 
 <h3> 🤝🏻 &nbsp;My Social Media </h3>
 <nav>
-  <a href= "www.linkedin.com/in/ivanj-vasquezs">
+  <a href= "https://www.linkedin.com/in/ivanj-vasquezs/" target = "blank">
     <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </nav>

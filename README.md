@@ -38,6 +38,12 @@ I'm an undergraduate student in the Ingeniería de Ciencia de Datos e Inteligenc
   </a>
 </nav>
 
+<div align="center">
+<h2> Github stats: </h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=VSIvanJ&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/VSIvanJ)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=VSIvanJ&theme=material-palenight)](https://github.com/VSIvanJ)
+</div>
 <!--
 **VSIvanJ/VSIvanJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

@@ -9,6 +9,7 @@ I'm an undergraduate student in the Ingeniería de Ciencia de Datos e Inteligenc
   - TypeScript
   - Angular
   - Laravel
+  - IBM Watson
 - 👯 I’m looking forward to collaborate on open source projects.
 - Outside tech, 📖 I love to read comics, webcomics and 🎵 listen to music.
 <!--- 📫 Reach out to me at: <a href="">EN PROCESO</a>-->

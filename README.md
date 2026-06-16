@@ -6,8 +6,8 @@
 I'm an undergraduate student in the Ingeniería de Ciencia de Datos e Inteligencia Artificial program at SENATI in Perú. I have experience working with programming languages such as Python, Java, PHP, and SQL, as well other languajes like HTML, CSS, and JavaScript. I am particularly interested in developing applications that integrate databases.
 * **I am interested in Desktop Apps designing**
 - 🌱 I’m currently learning ...
-  - TypeScript
-  - Angular
+  - PostgreSQL
+  - Machine Learning
   - Laravel
   - IBM Watson
 - 👯 I’m looking forward to collaborate on open source projects.

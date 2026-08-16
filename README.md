@@ -28,7 +28,6 @@ I'm an undergraduate student in the Ingeniería de Ciencia de Datos e Inteligenc
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black">
 </span>
 
 <h3> 🗃 &nbsp;Databases & Analytics </h3>
@@ -37,6 +36,7 @@ I'm an undergraduate student in the Ingeniería de Ciencia de Datos e Inteligenc
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_Bi-F2C811?style=for-the-badge&logo=codeforces&logoColor=black">
 </span>
 
 <h3> 🤝🏻 &nbsp;My Social Media </h3>

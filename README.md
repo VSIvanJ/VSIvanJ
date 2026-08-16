@@ -31,6 +31,14 @@ I'm an undergraduate student in the Ingeniería de Ciencia de Datos e Inteligenc
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </span>
 
+<span>
+  <img src="https://shields.io" alt="Python">
+  <img src="https://shields.io" alt="R">
+  <img src="https://shields.io" alt="Java">
+  <img src="https://shields.io" alt="PHP">
+  <img src="https://shields.io" alt="JavaScript">
+</span>
+
 <h3> 🗃 &nbsp;Databases & Analytics </h3>
 
 <span>

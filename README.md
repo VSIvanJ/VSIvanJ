@@ -20,7 +20,7 @@ I'm an undergraduate student in the Ingeniería de Ciencia de Datos e Inteligenc
 - Outside tech, 📖 I love to read comics, webcomics and 🎵 listen to music.
 
 <h2> Skills </h2>
-<h3> 🛠 &nbsp;Languages </h3>
+<h3> 💻 &nbsp;Languages </h3>
 
 <span>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
@@ -30,7 +30,7 @@ I'm an undergraduate student in the Ingeniería de Ciencia de Datos e Inteligenc
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </span>
 
-<h3> 🗃 &nbsp;Databases & Analytics </h3>
+<h3> 📊 &nbsp;Databases & Analytics </h3>
 
 <span>
   <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
